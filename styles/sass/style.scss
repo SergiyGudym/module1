@@ -47,6 +47,17 @@ table {
 /* -------------
 END OF RESET.CSS
 ------------- */
+@font-face {
+	font-family: Verdana;
+	src: url('../fonts/Verdana.ttf');
+}
+@font-face {
+	font-family: Georgia;
+	src: url('../fonts/georgia.ttf');
+}
+/* ------------------ 
+START OF FONTS ADDING
+-------------------*/
 
 .wrapper {
     max-width: 1000px;
