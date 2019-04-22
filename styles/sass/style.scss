@@ -63,7 +63,7 @@ START OF FONTS ADDING
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
-    min-width: 720px;
+    min-width: px;
     .center {
         margin: 0 21px;
         header {
@@ -282,8 +282,11 @@ START OF FONTS ADDING
                     margin-bottom: 20px;
                     .first-button {
                         border: 1px solid #915700;
-                        max-width: 200px;
+                        max-width: 202px;
                         background-color: #ff9900;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
                         a {
                             display: block;
                             margin: 9px 28px 7px 28px;
@@ -298,8 +301,11 @@ START OF FONTS ADDING
                     }
                     .second-button {
                         border: 1px solid #915700;
-                        max-width: 200px;
+                        max-width: 202px;
                         background-color: #ff9900;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
                         a {
                             display: block;
                             margin: 9px 32px 7px 30px;
