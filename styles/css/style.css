@@ -366,7 +366,12 @@ START OF FONTS ADDING
             align-items: center; }
             .wrapper .center .last .stay .bottom-search .submit2 a {
               text-decoration: none;
-              color: #d4d4d4; }
+              color: #666666;
+              font-family: Verdana;
+              font-size: 14px;
+              font-weight: 400;
+              line-height: 14px;
+              text-transform: uppercase; }
         .wrapper .center .last .stay .unsub a {
           color: #666666;
           font-family: Verdana;
@@ -395,7 +400,8 @@ START OF FONTS ADDING
             font-family: Verdana;
             font-size: 12px;
             font-weight: 400;
-            line-height: 12px; }
+            line-height: 12px;
+            text-decoration: none; }
       .wrapper .center .last .details {
         width: 290px; }
         .wrapper .center .last .details h2 {
